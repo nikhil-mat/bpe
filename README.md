@@ -1,4 +1,3 @@
-### BP Encododer
+### BPEncoder
 
-Trying to understand how a byte pair tokenizer works by implmenting one
-yaayy
+A simple byte-pair-encoding implementation in python
